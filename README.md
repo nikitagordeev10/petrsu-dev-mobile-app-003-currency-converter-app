@@ -4,7 +4,7 @@
 
 На сайте ЦБ РФ имеется ежедневно обновляемый курс валют к рублю. Необходимо написать приложение, которое позволило бы пользователю перевести из любой валюты в любую. Пользователь задает: количество единиц валюты, из какой валюты переводить, в какую валюту переводить. Нажимает перевести. Приложение показывает количество валюты, которое он может получить.
 
-Материалы, лабораторая работа 3
+### Источники
 - How to create Currency Converter using Android Studio // YouTube URL: https://www.youtube.com/watch?v=4_pSMcxShJ0 (дата обращения: 01.12.2022).
 - How to put a border around an Android TextView? // Stack Overflow URL: https://stackoverflow.com/questions/3496269/how-to-put-a-border-around-an-android-textview (дата обращения: 04.12.2022).
 - Add padding on view programmatically // Stack Overflow URL: https://stackoverflow.com/questions/9685658/add-padding-on-view-programmatically (дата обращения: 04.12.2022).
